@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/client-feign/pom.xml" />
         <option value="$PROJECT_DIR$/config/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-bus/pom.xml" />
       </list>
     </option>
   </component>

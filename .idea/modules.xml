@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/client-feign/client-feign.iml" filepath="$PROJECT_DIR$/client-feign/client-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-bus/config-client-bus.iml" filepath="$PROJECT_DIR$/config-client-bus/config-client-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config-server.iml" filepath="$PROJECT_DIR$/config/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />

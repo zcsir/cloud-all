@@ -19,6 +19,7 @@
         <module name="client" />
         <module name="client-feign" />
         <module name="config-client" />
+        <module name="config-client-bus" />
         <module name="config-server" />
         <module name="eureka" />
         <module name="server" />
@@ -30,6 +31,7 @@
       <module name="client-feign" target="1.8" />
       <module name="cloud" target="1.8" />
       <module name="config-client" target="1.8" />
+      <module name="config-client-bus" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="eureka" target="1.8" />
       <module name="server" target="1.8" />
